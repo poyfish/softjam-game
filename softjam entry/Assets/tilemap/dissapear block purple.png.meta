@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 93fa0e0e45a13444a9f55c135753801d
+guid: 194fafd7b02ff694a85a678d117b948d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,652 +105,883 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: space tilemap finished_0
+      name: dissapear block purple_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 104
+        y: 32
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7496291e2b9f07e4d8733495474aafa8
-      internalID: 1989855948
+      spriteID: 7af501ef395df15489405750cd8e308a
+      internalID: -1257092276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: space tilemap finished_1
+      name: dissapear block purple_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c990a2c59536ce34aa34fbfc7e8d7d1a
+      internalID: 1548460856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_2
       rect:
         serializedVersion: 2
         x: 32
-        y: 104
+        y: 32
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28309c90f97ff0f479816db22b57c5ee
-      internalID: -60964116
+      spriteID: eb7f0223b4c848c43b16927e6d06df5f
+      internalID: 1423822372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: space tilemap finished_2
+      name: dissapear block purple_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cba5ff6a9b241409f09af876109a75
+      internalID: 1907237049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_4
       rect:
         serializedVersion: 2
         x: 64
-        y: 104
+        y: 32
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b842e79f59f1d324698c475678e0f649
-      internalID: 771812723
+      spriteID: 02f8e77b1e3d2eb4b8899c80d73201de
+      internalID: -1105287949
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: space tilemap finished_3
+      name: dissapear block purple_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7441f22de37ea42b5c50543b06bc21
+      internalID: 304586051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89529a474e62424e9bce84492a91773
+      internalID: 880585153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392e7ea842b3ad548921cbd81da89c6f
+      internalID: 1928216754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_8
       rect:
         serializedVersion: 2
         x: 128
-        y: 104
+        y: 32
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a755badf498f4642899e217a3e52cee
-      internalID: 1399603032
+      spriteID: 16bdc91456efe9d459a2bc951fea73c7
+      internalID: -386798680
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: space tilemap finished_4
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 03129b1f976e7ac4a8dcb9cf0c88ebfa
-      internalID: -1147422925
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_5
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f09892720d0a3e4b954093ad4698e7f
-      internalID: 625080591
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_6
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 72
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 55098b22326a3fa4e950bf0d69ed627f
-      internalID: -1238692014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_7
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 72
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5aecfe22274cdbb4d81e95755fa9764e
-      internalID: 372199623
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_8
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 72
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 712b7ea5f491c0f4191f051b90c5be8b
-      internalID: -140232760
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_9
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 72
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 86bc309a862ca87469cf67d0db4cf711
-      internalID: 824781315
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_10
+      name: dissapear block purple_9
       rect:
         serializedVersion: 2
         x: 144
-        y: 72
+        y: 32
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 627c9a369c9f8b64b8ed28e3f573562e
-      internalID: 239916399
+      spriteID: 68f9ef4f82aa73e47acd29d6f3b44ccc
+      internalID: 164583114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: space tilemap finished_11
+      name: dissapear block purple_10
       rect:
         serializedVersion: 2
         x: 160
-        y: 72
+        y: 32
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93b6bc86fa1ec0046b9ae915b12f51e5
-      internalID: 2087305855
+      spriteID: aeeede40067179742964e1118042990c
+      internalID: -1581960608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: space tilemap finished_12
+      name: dissapear block purple_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aef3e10301d78940a920c22d37596c1
+      internalID: -605377752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_12
       rect:
         serializedVersion: 2
         x: 192
-        y: 72
+        y: 32
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb384ce80a3d8ca478016cdc485e2a20
-      internalID: -1463343296
+      spriteID: 70e9d75f69429bc47b783369e6425e3e
+      internalID: 1869832232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: space tilemap finished_13
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 72
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 46fda3482a1558448871d3f3417c5ca2
-      internalID: -1330582742
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_14
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 56
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6d7d83a225d0974f843933d6f29961c
-      internalID: 878599619
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_15
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c79b4021f5a71746b1eb0ec140448e3
-      internalID: 574189654
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_16
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1df7d8135710cf744b5e7e334090e6ae
-      internalID: -1783369272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_17
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 05ac5c5e3d36fd1408d5d5b1b7c34114
-      internalID: -1407785920
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_18
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 542b33f08c3dd3d48ac45226ecd41f22
-      internalID: 987483191
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_19
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f2fd88798106e2d458c153c036d1affd
-      internalID: 1803846929
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_20
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 700851ffe64e67448b7f852b0b3316c1
-      internalID: 409674053
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_21
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 88c57066770114b4ea125fa8fdb38376
-      internalID: 207068230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_22
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 40
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb14c124c7a4a1e41b350640e707ca2e
-      internalID: 652260576
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_23
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0fb6053f21030cf468f84df319098f3a
-      internalID: 261546397
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_24
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 582ba996ff576d64f93fe7d27990bced
-      internalID: -212709902
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_25
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e2e5ba72f241cb94e967fdf0e295dc3d
-      internalID: 2090696785
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_26
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9da3693b58df09444b7193ae5f951a6e
-      internalID: -1098009903
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_27
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1439a6611f441424ba99c3b15b24b4a3
-      internalID: -939649714
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_28
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 8
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4dbf39688f83de645af2734af96901c2
-      internalID: -1061376118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: space tilemap finished_29
+      name: dissapear block purple_13
       rect:
         serializedVersion: 2
         x: 208
-        y: 8
+        y: 32
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7cfef056e61c4654fb0fffead5e30f1e
-      internalID: 1625125803
+      spriteID: 6af945d7045c0a046946eaa2c40a174c
+      internalID: 1809844620
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: space tilemap finished_30
+      name: dissapear block purple_14
       rect:
         serializedVersion: 2
         x: 224
-        y: 8
+        y: 32
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 582efa93429bac14a8d0d81c7a59c373
-      internalID: 100995848
+      spriteID: 05af53cbf31f02f4db94f16da0bb986d
+      internalID: 485097676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f0cfe65c291cb4e92ff9b37c23b11f
+      internalID: -216537913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f59b7774070d248939ec0ee42d3e69
+      internalID: -1080063336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f35a51722e104429fbf83863e5519d
+      internalID: 1511392814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338f8863c62abb74f982f46f32a52f6a
+      internalID: -1602156925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276e4699ee24e7647a549e9cece0aced
+      internalID: -1446875495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e66da134fbd0684c916deb5f1fd1589
+      internalID: -1848792387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3fabc92eab80046b7e90220ce89fd2
+      internalID: 239120856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6ef6ed19e14d647873d879fdec465a
+      internalID: -1473932669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59bc7cdf42dd7949b0ad53148d66ceb
+      internalID: 913014673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b514b12f736b4144bc30fbad9227aa4
+      internalID: 125921095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafac27f19415544c811dc7bbe3a74f0
+      internalID: -60099355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd0f50e24780c04f9c1f65d4c736289
+      internalID: 471061030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a4905c6244c554fb27fc4cd97d8cb4
+      internalID: 983335028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcd028127ae9914881e5cfffc6c3460
+      internalID: -747443712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0166dee340833448e99b8a761096ef
+      internalID: -1414346026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0d7dd4f45ad674b8a7a845bf8e3bdf
+      internalID: -237330610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4750d34b5d713b648bbfd425f032ca30
+      internalID: -1709563122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9261defddeb03aa4692de5bca4387501
+      internalID: 1434295676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087b92744c21e06479cb82e24054d785
+      internalID: -681649917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e76c1a9fed0d8045bc439f09e719174
+      internalID: -648035343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0a1e293b01b604e95033a04a95485b
+      internalID: 1926226823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f60ec41dc92c146b5d6818fafd42bb
+      internalID: 1792409372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707b95f595d19ad4ab207f6220c239b1
+      internalID: 1773544610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b100a9a8b33a614a9a80b99b6ab7aa7
+      internalID: -925844177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c19857cacead9342a62b18070126521
+      internalID: -121189633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b860455820cc0b458a89a2c0f277716
+      internalID: 1644998441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dissapear block purple_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baf058bb3e84984392c103d288210f2
+      internalID: 1967553070
       vertices: []
       indices: 
       edges: []
@@ -766,37 +997,48 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      space tilemap finished_13: -1330582742
-      space tilemap finished_19: 1803846929
-      space tilemap finished_10: 239916399
-      space tilemap finished_4: -1147422925
-      space tilemap finished_5: 625080591
-      space tilemap finished_6: -1238692014
-      space tilemap finished_0: 1989855948
-      space tilemap finished_8: -140232760
-      space tilemap finished_25: 2090696785
-      space tilemap finished_23: 261546397
-      space tilemap finished_11: 2087305855
-      space tilemap finished_1: -60964116
-      space tilemap finished_24: -212709902
-      space tilemap finished_22: 652260576
-      space tilemap finished_7: 372199623
-      space tilemap finished_27: -939649714
-      space tilemap finished_17: -1407785920
-      space tilemap finished_28: -1061376118
-      space tilemap finished_21: 207068230
-      space tilemap finished_3: 1399603032
-      space tilemap finished_18: 987483191
-      space tilemap finished_15: 574189654
-      space tilemap finished_14: 878599619
-      space tilemap finished_30: 100995848
-      space tilemap finished_12: -1463343296
-      space tilemap finished_20: 409674053
-      space tilemap finished_29: 1625125803
-      space tilemap finished_2: 771812723
-      space tilemap finished_26: -1098009903
-      space tilemap finished_9: 824781315
-      space tilemap finished_16: -1783369272
+      dissapear block purple_25: -60099355
+      dissapear block purple_1: 1548460856
+      dissapear block purple_22: -1473932669
+      dissapear block purple_8: -386798680
+      dissapear block purple_23: 913014673
+      dissapear block purple_16: -1080063336
+      dissapear block purple_5: 304586051
+      dissapear block purple_34: -648035343
+      dissapear block purple_26: 471061030
+      dissapear block purple_29: -1414346026
+      dissapear block purple_32: 1434295676
+      dissapear block purple_19: -1446875495
+      dissapear block purple_41: 1967553070
+      dissapear block purple_36: 1792409372
+      dissapear block purple_0: -1257092276
+      dissapear block purple_14: 485097676
+      dissapear block purple_11: -605377752
+      dissapear block purple_13: 1809844620
+      dissapear block purple_3: 1907237049
+      dissapear block purple_15: -216537913
+      dissapear block purple_28: -747443712
+      dissapear block purple_35: 1926226823
+      dissapear block purple_4: -1105287949
+      dissapear block purple_21: 239120856
+      dissapear block purple_39: -121189633
+      dissapear block purple_38: -925844177
+      dissapear block purple_20: -1848792387
+      dissapear block purple_40: 1644998441
+      dissapear block purple_18: -1602156925
+      dissapear block purple_31: -1709563122
+      dissapear block purple_10: -1581960608
+      dissapear block purple_30: -237330610
+      dissapear block purple_7: 1928216754
+      dissapear block purple_24: 125921095
+      dissapear block purple_33: -681649917
+      dissapear block purple_6: 880585153
+      dissapear block purple_9: 164583114
+      dissapear block purple_17: 1511392814
+      dissapear block purple_37: 1773544610
+      dissapear block purple_2: 1423822372
+      dissapear block purple_27: 983335028
+      dissapear block purple_12: 1869832232
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

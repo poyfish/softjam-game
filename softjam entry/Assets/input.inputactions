@@ -124,7 +124,7 @@
                     "name": "",
                     "id": "e9747355-65f8-4971-b7b3-2095df8e2178",
                     "path": "<Keyboard>/space",
-                    "interactions": "Tap",
+                    "interactions": "",
                     "processors": "",
                     "groups": "",
                     "action": "release jump",
