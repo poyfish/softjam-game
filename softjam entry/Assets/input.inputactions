@@ -1,0 +1,138 @@
+{
+    "name": "input",
+    "maps": [
+        {
+            "name": "default",
+            "id": "b3c107ce-9926-489a-934c-5b86d4eafde3",
+            "actions": [
+                {
+                    "name": "horizontal",
+                    "type": "Value",
+                    "id": "3b5fa2e1-bf04-4c2a-9a21-40afa48e8d94",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "vertical",
+                    "type": "Value",
+                    "id": "edbdbfe0-5f86-4e2b-a217-a348724f3f74",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "jump",
+                    "type": "Button",
+                    "id": "52a66164-6d6b-458b-ac8b-adf5204da488",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "release jump",
+                    "type": "Button",
+                    "id": "18176502-7455-458c-a8bf-17306f7edc0c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "1D Axis",
+                    "id": "8d9593f3-03fe-469a-9e51-da522878f817",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "horizontal",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "35bb760c-d1ed-45db-a84c-9fcb52f2bb8b",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "horizontal",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "f7c2f6cf-52c6-4c83-a6f0-325739773f05",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "horizontal",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "1D Axis",
+                    "id": "700a7819-af1e-4066-a001-57a74c574222",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "vertical",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "98dc1fad-d95b-44b5-938e-e6e126b2238d",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "vertical",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "9fbc9555-e793-48d2-8ff0-459f7a536c83",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "vertical",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "d3d1a87d-351f-47ae-a68f-b4195f2e21ef",
+                    "path": "<Keyboard>/space",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e9747355-65f8-4971-b7b3-2095df8e2178",
+                    "path": "<Keyboard>/space",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "release jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
