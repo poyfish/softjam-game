@@ -11050,6 +11050,7 @@ GameObject:
   - component: {fileID: 1516902388}
   - component: {fileID: 1516902391}
   - component: {fileID: 1516902392}
+  - component: {fileID: 1516902393}
   m_Layer: 0
   m_Name: music manager
   m_TagString: Untagged
@@ -11067,7 +11068,7 @@ PlayableDirector:
   m_Enabled: 1
   serializedVersion: 3
   m_PlayableAsset: {fileID: 11400000, guid: 049e06b9d86671c469b47cf7b463243e, type: 2}
-  m_InitialState: 1
+  m_InitialState: 0
   m_WrapMode: 2
   m_DirectorUpdateMode: 1
   m_InitialTime: 0
@@ -11219,6 +11220,18 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1516902393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1516902387}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ebd92a729d1da241bca1f595eb67503, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1538839941
 GameObject:
   m_ObjectHideFlags: 0
