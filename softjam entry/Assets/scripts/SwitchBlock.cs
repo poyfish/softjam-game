@@ -7,13 +7,9 @@ public class SwitchBlock : MonoBehaviour
     public GameObject ActiveTilemap;
     public GameObject DisabledTilemap;
 
-    public float StartOffset;
-    public float SwitchRate;
-
-
     private void Start()
     {
-        InvokeRepeating("Switch", StartOffset, SwitchRate);
+
     }
 
 
