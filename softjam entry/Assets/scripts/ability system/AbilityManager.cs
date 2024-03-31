@@ -66,4 +66,10 @@ public class AbilityManager : MonoBehaviour
         return abilities.Where(a => a.ability == this).FirstOrDefault();
     }
 
+
+    public void SetCanUseAbilities(bool CanUse)
+    {
+        CanUseAbilities = CanUse;
+    }
+
 }

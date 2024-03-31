@@ -162,6 +162,11 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    public void Goto(Transform target)
+    {
+        transform.position = target.position;
+    }
+
     public bool IsGrounded()
     {
         return Physics2D.BoxCast(coll.bounds.center, coll.bounds.size / 1.1f, 0f, Vector2.down, .1f, jumpableGround);

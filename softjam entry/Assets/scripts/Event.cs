@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class SpawnPortal : MonoBehaviour
+public class Event : MonoBehaviour
 {
     public UnityEvent SpawnPlayerEvent;
 
-    public void SpawnPlayer()
+    public void InvokeEvent()
     {
         SpawnPlayerEvent.Invoke();
     }
