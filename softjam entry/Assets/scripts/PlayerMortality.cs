@@ -11,8 +11,6 @@ public class PlayerMortality : MonoBehaviour
     private void Start()
     {
         player = GetComponent<PlayerMovement>();
-
-        ReturnToCheckpoint();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -24,7 +22,7 @@ public class PlayerMortality : MonoBehaviour
     }
 
 
-    void ReturnToCheckpoint()
+    public void ReturnToCheckpoint()
     {
         transform.position = Checkpoint.position;
 

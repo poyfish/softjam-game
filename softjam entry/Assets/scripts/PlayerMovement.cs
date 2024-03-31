@@ -154,6 +154,8 @@ public class PlayerMovement : MonoBehaviour
     {
         CanMove = Canmove;
 
+        CanFall = Canmove;
+
         if(Canmove == true)
         {
             ExelerationTimer = 0;
