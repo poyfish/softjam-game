@@ -402,7 +402,7 @@ MonoBehaviour:
   Delay: 1
   OutTransition: {fileID: 913234832}
   TransitionTime: 1
-  TransitionSceneName: level 2
+  TransitionSceneName: level 3
 --- !u!114 &261040924
 MonoBehaviour:
   m_ObjectHideFlags: 0
