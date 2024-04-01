@@ -172,4 +172,9 @@ public class PlayerMovement : MonoBehaviour
         return Physics2D.BoxCast(coll.bounds.center, coll.bounds.size / 1.1f, 0f, Vector2.down, .1f, jumpableGround);
     }
 
+    void OnDestroy()
+    {
+        ReleaseJump.action.canceled -= CancelJump;
+    }
+
 }
