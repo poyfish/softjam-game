@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class PlayerMortality : MonoBehaviour
 {
@@ -8,19 +9,22 @@ public class PlayerMortality : MonoBehaviour
 
     private PlayerMovement player;
 
+    public UnityEvent OnDeath;
+
     private void Start()
     {
         player = GetComponent<PlayerMovement>();
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    public IEnumerator OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.layer == 6)
         {
+            OnDeath.Invoke();
+            yield return new WaitForEndOfFrame();
             ReturnToCheckpoint();
         }
     }
-
 
     public void ReturnToCheckpoint()
     {
